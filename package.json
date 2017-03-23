@@ -1,0 +1,20 @@
+{
+  "name": "code_guide_typescript",
+  "version": "0.0.1",
+  "description": "Re-learning typescript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-guide/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-guide/typescript/issues"
+  },
+  "homepage": "https://github.com/code-guide/typescript#readme",
+  "dependencies": {
+    "typescript": "^2.2.1"
+  }
+}
